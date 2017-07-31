@@ -1,4 +1,4 @@
-package com.gabriellima.myorders.myorders;
+package com.gabriellima.myorders;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
